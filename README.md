@@ -30,3 +30,5 @@
 
 **Technos :** Node.js, Express, Mongo DB, React.js, CSS
 
+**Liens :** https://github.com/Ridaelko/Vinted-backend  https://github.com/Ridaelko/vinted-frontend
+
