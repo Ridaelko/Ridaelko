@@ -27,4 +27,6 @@
 
 ##### 1. Réplique de Vinted 
 **Description :** Un projet fullstack dynamique réalisé durant ma formation, côté backend, on retrouve les différentes routes construites à l'aide de Postman, les articles sont stockés sur Mongo DB, côté frontend, le site a été développé avec React, récupération et affichage de données, création de token pour les inscriptions et connexions, les articles sont clickables pour en voir les détails.
-**Technos :** 
+
+**Technos :** Node.js, Express, Mongo DB, React.js, CSS
+
