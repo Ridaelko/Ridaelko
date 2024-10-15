@@ -1,8 +1,12 @@
-#                                                                                                                         <👋🏼 🌎/>
+<div align="center">
 
-## I am Rida, a french 🇫🇷 developer passionate about about web development 🧑🏻‍💻
+# <👋🏼 🌎/>
 
-## My Main stack 🛠️
+## I am Rida, a French 🇫🇷 developer passionate about web development 🧑🏻‍💻
+
+</div>
+
+## My Main Stack 🛠️
 
 | **Languages**      | **Frameworks**                   | **Tools**                                 |
 |-------------------|----------------------------------|--------------------------------------------|
@@ -10,6 +14,3 @@
 | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)    | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) |
 |                   |                                  | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-
-
-
