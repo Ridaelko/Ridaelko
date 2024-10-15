@@ -1,6 +1,6 @@
 <div align="center">
 
-# <👋🏼 🌎/>
+# < 👋🏼 🌎 />
 
 #### I am Rida, a French 🇫🇷 developer passionate about web development 💻
 
