@@ -28,12 +28,15 @@
 ##### 1. Réplique de Vinted 
 **Description :** Un projet fullstack dynamique réalisé durant ma formation, côté backend, on retrouve les différentes routes construites à l'aide de Postman, les articles sont stockés sur Mongo DB, côté frontend, le site a été développé avec React, récupération et affichage de données, création de token pour les inscriptions et connexions, les articles sont clickables pour en voir les détails.
 
-#### Connecy with me 📱
 
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rida.elkouch@gmail.com)
 
 
 **Technos :** Node.js, Express, Mongo DB, React.js, CSS
 
 **Liens :** https://github.com/Ridaelko/Vinted-backend  https://github.com/Ridaelko/vinted-frontend
+
+
+#### Connecy with me 📱
+
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rida.elkouch@gmail.com)
 
