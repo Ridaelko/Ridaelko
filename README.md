@@ -2,11 +2,11 @@
 
 # <👋🏼 🌎/>
 
-## I am Rida, a French 🇫🇷 developer passionate about web development 🧑🏻‍💻
+#### I am Rida, a French 🇫🇷 developer passionate about web development 🧑🏻‍💻
 
 </div>
 
-## My Main Stack 🛠️
+#### My Main Stack 🛠️
 
 | **Languages**      | **Frameworks**                   | **Tools**                                 |
 |-------------------|----------------------------------|--------------------------------------------|
