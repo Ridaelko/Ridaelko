@@ -2,7 +2,7 @@
 
 # <👋🏼 🌎/>
 
-#### I am Rida, a French 🇫🇷 developer passionate about web development 🧑🏻‍💻
+#### I am Rida, a French 🇫🇷 developer passionate about web development 💻
 
 </div>
 
@@ -22,3 +22,9 @@
 |                   |                                  | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 </div>
+
+#### My projects 🧑🏻‍💻
+
+##### 1. Réplique de Vinted 
+**Description :** Un projet fullstack dynamique réalisé durant ma formation, côté backend, on retrouve les différentes routes construites à l'aide de Postman, les articles sont stockés sur Mongo DB, côté frontend, le site a été développé avec React, récupération et affichage de données, création de token pour les inscriptions et connexions, les articles sont clickables pour en voir les détails.
+**Technos :** 
